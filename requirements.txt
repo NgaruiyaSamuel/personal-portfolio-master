@@ -24,7 +24,7 @@ idna==2.0
 importlib-metadata==1.7.0
 isort==5.5.3
 Jinja2==2.8
-language-selector==0.1
+#language-selector==0.1
 lazy-object-proxy==1.4.3
 louis==2.6.4
 lxml==3.5.0
