@@ -25,7 +25,7 @@ SECRET_KEY = 'Enter Your Secret Key'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','portfolio-sys.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','samkit.herokuapp.com']
 
 
 # Application definition
