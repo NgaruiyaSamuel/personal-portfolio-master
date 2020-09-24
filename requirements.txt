@@ -26,12 +26,12 @@ isort==5.5.3
 Jinja2==2.8
 #language-selector==0.1
 lazy-object-proxy==1.4.3
-"""louis==2.6.4
-lxml==3.5.0
-Mako==1.0.3
-MarkupSafe==0.23
-mccabe==0.6.1
-oauthlib==1.0.3
+#louis==2.6.4
+#lxml==3.5.0
+#Mako==1.0.3
+#MarkupSafe==0.23
+# mccabe==0.6.1
+''' oauthlib==1.0.3
 onboard==1.2.0
 padme==1.1.1
 pexpect==4.0.1
@@ -83,4 +83,4 @@ wrapt==1.12.1
 xdiagnose==3.8.4.1
 xkit==0.0.0
 XlsxWriter==0.7.3
-zipp==3.1.0 """
+zipp==3.1.0 '''
